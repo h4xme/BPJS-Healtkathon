@@ -1,0 +1,245 @@
+{
+    "data": {
+        "Crypto": [
+            {
+                "category": "Crypto",
+                "description": "Cuma soal cerdas cermat.\r\n\r\n```\r\nnc 157.10.160.46 10091 \r\n```\r\n\r\nAuthor: xchopath",
+                "files": [
+                    "/files/0a5ac45549044e7bab63e84df91cbd48/dist.zip?token=eyJ1c2VyX2lkIjo0MDEsInRlYW1faWQiOjIxMCwiZmlsZV9pZCI6MTZ9.aRg77A.c9aigAq93DSHiAhBxoI268Rz1ds"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 13,
+                "name": "Cerdas Cermath",
+                "points": 100,
+                "solves": 147
+            },
+            {
+                "category": "Crypto",
+                "description": "We built our own cookie system. Can you please check whether it\u2019s secure?\r\n103.49.238.151:8000\r\n\r\nAuthor: Fedra Bayu",
+                "files": [],
+                "hints": [
+                    "`/admin`"
+                ],
+                "id": 12,
+                "name": "Boku no Keki",
+                "points": 100,
+                "solves": 14
+            },
+            {
+                "category": "Crypto",
+                "description": "Hanya bang JaWa Tengah Admin yang boleh liat flag-nya dek!\r\n\r\nURL: http://103.49.238.151:5005/\r\n\r\n**Service:**\r\n\r\n- Login:\r\n```\r\nPOST /login  (JSON {\"username\": \"KING\"})\r\n```\r\n\r\n- Admin area:\r\n```\r\nGET /admin (Authorization: Bearer <token>)\r\n```\r\n\r\nAuthor: Fedra Bayu",
+                "files": [],
+                "hints": [
+                    "",
+                    ""
+                ],
+                "id": 14,
+                "name": "JaWa Tengah",
+                "points": 100,
+                "solves": 73
+            }
+        ],
+        "Digital Forensics": [
+            {
+                "category": "Digital Forensics",
+                "description": "celingak celinguk dikit nnti juga ketemu\r\n\r\nFile : https://gofile.io/d/MPOpzV\r\npw : akusayangbpjs\r\n\r\nAuthor: riodrwn",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 3,
+                "name": "Hocus Focus",
+                "points": 100,
+                "solves": 95
+            },
+            {
+                "category": "Digital Forensics",
+                "description": "Analisa artifact biasa\r\n\r\nAuthor: riodrwn",
+                "files": [
+                    "/files/8844ec9eba2cb6199035ebc7871ac368/L0gs.zip?token=eyJ1c2VyX2lkIjo0MDEsInRlYW1faWQiOjIxMCwiZmlsZV9pZCI6MjR9.aRg77A.xL5hxnrB5rH_R-r_iejVFWc8UMA"
+                ],
+                "hints": [
+                    ""
+                ],
+                "id": 4,
+                "name": "backdoor",
+                "points": 100,
+                "solves": 13
+            },
+            {
+                "category": "Digital Forensics",
+                "description": "Employees were suddenly logged out of multiple accounts. The only artifact available: a full copy of a Chrome profile.\r\n\r\nAuthor: fariqfgi",
+                "files": [
+                    "/files/332fd83c2f6faa49fca934f4f23795ef/browser_profile_evidences.zip?token=eyJ1c2VyX2lkIjo0MDEsInRlYW1faWQiOjIxMCwiZmlsZV9pZCI6MjF9.aRg77Q.XobludMGZPVL8HODIne448pUXnk"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 2,
+                "name": "St3aler",
+                "points": 100,
+                "solves": 33
+            }
+        ],
+        "Misc": [
+            {
+                "category": "Misc",
+                "description": "tolong bantu isi Kritik & Saran terkait service platform & soal yaa teman~!\r\n\r\nhttps://docs.google.com/forms/d/e/1FAIpQLSdhX2kSEneIiSJaPIebHz5lQd_Fi_e2TWs2O5PQMqAP-92QTQ/viewform?usp=dialog",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 18,
+                "name": "Kritik & Saran",
+                "points": 1,
+                "solves": 113
+            },
+            {
+                "category": "Misc",
+                "description": "Submit free flagnya dulu cik... biar muncul di scoreboard\r\n\r\n```\r\nBPJS{HackTheCode_ReinforceTheNation}\r\n```",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 17,
+                "name": "Checkpoint",
+                "points": 1,
+                "solves": 237
+            }
+        ],
+        "Pwn": [
+            {
+                "category": "Pwn",
+                "description": "Vault should only have a feature to store our passwords, right?\r\n\r\n```\r\nnc 103.31.39.30 20038\r\n```\r\n\r\nAuthor: Lychnobyte",
+                "files": [
+                    "/files/41629b61b6216fecfc61ce5cfd619da9/Vault.zip?token=eyJ1c2VyX2lkIjo0MDEsInRlYW1faWQiOjIxMCwiZmlsZV9pZCI6MTJ9.aRg77A.E8aeZnlj_Aur2KNK9ZmG2l6u1tw"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 6,
+                "name": "Vault",
+                "points": 300,
+                "solves": 4
+            },
+            {
+                "category": "Pwn",
+                "description": "Lemme calculate ur data\r\n\r\n```\r\nnc 210.79.191.79 20048\r\n```\r\n\r\nAuthor: Lychnobyte",
+                "files": [
+                    "/files/2740f442a5a1b940442eb11c21da5b14/Stats.zip?token=eyJ1c2VyX2lkIjo0MDEsInRlYW1faWQiOjIxMCwiZmlsZV9pZCI6MTB9.aRg77A.7XzY_AbmSh2HGSHs90rU4-prd1M"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 5,
+                "name": "Stats",
+                "points": 500,
+                "solves": 0
+            },
+            {
+                "category": "Pwn",
+                "description": "Yet another memo application\r\n\r\n```\r\nnc 103.49.238.151 20058\r\n```\r\n\r\nAuthor: Lychnobyte",
+                "files": [
+                    "/files/b76e0b64296d8fa328fd6ca91352841f/memo.zip?token=eyJ1c2VyX2lkIjo0MDEsInRlYW1faWQiOjIxMCwiZmlsZV9pZCI6MTF9.aRg76w.W3D8b9KB_tQxFvgLL7bR8U5Sd2g"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 7,
+                "name": "Memo",
+                "points": 500,
+                "solves": 0
+            }
+        ],
+        "Reverse Engineering": [
+            {
+                "category": "Reverse Engineering",
+                "description": "Have u heard about ebpf?\r\n\r\n```\r\nnc 210.79.191.79\r\n```\r\n\r\nAuthor: Lychnobyte\r\n\r\nNotes: Binary run well in kernel version 6.8.0-85-generic (Ubuntu 24.04 LTS)",
+                "files": [
+                    "/files/97f247060f36ec8b4d22c19eeb336b62/release.zip?token=eyJ1c2VyX2lkIjo0MDEsInRlYW1faWQiOjIxMCwiZmlsZV9pZCI6MTV9.aRg76w.11UORUL7Q0mSi4lEszzod54hv_k"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 11,
+                "name": "Ebpf Service",
+                "points": 100,
+                "solves": 9
+            },
+            {
+                "category": "Reverse Engineering",
+                "description": "Toko mas jawa yang hidden gem ya ini dek!!!!!\r\n\r\nAuthor: Fedra Bayu",
+                "files": [
+                    "/files/db7f6592942d7c067cb35e7560024885/license-challenge.zip?token=eyJ1c2VyX2lkIjo0MDEsInRlYW1faWQiOjIxMCwiZmlsZV9pZCI6MTh9.aRg76w.RUYT9vKrvW7VLfmAkmM4PZ-RcJ4"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 15,
+                "name": "Toko Mas Jawa",
+                "points": 100,
+                "solves": 148
+            },
+            {
+                "category": "Reverse Engineering",
+                "description": "Serialnya dek\r\n\r\n`nc 210.79.191.79 10037`\r\n\r\n```\r\n\u276f md5sum polycheck\r\n93ebc46636f39e467107656e9736b371  polycheck\r\n```\r\n\r\nAuthor: Fedra Bayu",
+                "files": [
+                    "/files/a39144a854cbcb0365d84eb14e3457c7/polycheck.zip?token=eyJ1c2VyX2lkIjo0MDEsInRlYW1faWQiOjIxMCwiZmlsZV9pZCI6MTd9.aRg76w.ek57CCIIK0ODaM8zU3OlsqqdEVs"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 10,
+                "name": "Polycheck",
+                "points": 100,
+                "solves": 84
+            }
+        ],
+        "Web Exploitation": [
+            {
+                "category": "Web Exploitation",
+                "description": "I\u2019m building my own note-taking app \u2014 hopefully it\u2019s secure.\r\n\r\nhttp://157.10.160.65:8088 \r\n\r\nAuthor: yuyudhn",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 1,
+                "name": "my_notes",
+                "points": 100,
+                "solves": 20
+            },
+            {
+                "category": "Web Exploitation",
+                "description": "Chunkie junkie, lemon squeezy... but what's next?\r\n\r\n```\r\nhttp://210.79.190.102:8081/\r\n```\r\n\r\nAuthor: xchopath",
+                "files": [
+                    "/files/1247abfeba263cbd09baf1fd717332e2/dist.zip?token=eyJ1c2VyX2lkIjo0MDEsInRlYW1faWQiOjIxMCwiZmlsZV9pZCI6MTR9.aRg77A.zMr0ULYD_3ta2NpPVxTnvZCt8_U"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 8,
+                "name": "Poi",
+                "points": 100,
+                "solves": 12
+            },
+            {
+                "category": "Web Exploitation",
+                "description": "Source code supremacy, go read it and...\r\nTatakae!\r\n\r\n```\r\nhttp://103.31.39.30:8080\r\n```\r\n\r\nAuthor: xchopath\r\n\r\n",
+                "files": [
+                    "/files/7a6997b4a27cc691ec56aaa270ce00ad/Deez.zip?token=eyJ1c2VyX2lkIjo0MDEsInRlYW1faWQiOjIxMCwiZmlsZV9pZCI6MTN9.aRg77A.SvmDaWPULEn6HnQgKq5SonydPVw"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 9,
+                "name": "Deez",
+                "points": 100,
+                "solves": 89
+            }
+        ]
+    },
+    "title": "BPJS HEALTHKATHON - 2025",
+    "url": "https://ctf.healthkathon.com"
+}
